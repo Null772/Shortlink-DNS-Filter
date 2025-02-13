@@ -1,9 +1,9 @@
 !
 ! Title: Shortlink User Rules Filter
 ! Description: Shortlink User Rules Shield Filter
-! Version: 1.0.0.7
+! Version: 1.0.0.8
 ! Homepage: https://github.com/Null772/Shortlink-DNS-Filter
-! Last modified: 2025-02-13T06:45:39.824Z
+! Last modified: 2025-02-13T22:18:44.192Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -233,3 +233,43 @@
 ||m.site.naver.com^$all
 ||vki.kr^$all
 ||lyl.su^$all
+||00m.in^$all
+||9lick.me^$all
+||account.beauty^$all
+||bank.charity^$all
+||clickthis.photo^$all
+||cryp-o.online^$all
+||crypto-o.click^$all
+||customer.autos^$all
+||customersupport.click^$all
+||foot.wiki^$all
+||gamergirl.pro^$all
+||gamingfun.me^$all
+||imagehub.fun^$all
+||imagestash.pics^$all
+||imagevault.cloud^$all
+||imghost.pics^$all
+||location.cyou^$all
+||map-s.online^$all
+||mapss.icu^$all
+||mymap.icu^$all
+||mymap.quest^$all
+||mymassive.pics^$all
+||mypicparade.pics^$all
+||myprivate.pics^$all
+||myprivate.yachts^$all
+||photospace.life^$all
+||photovault.pics^$all
+||photovault.store^$all
+||pichost.pics^$all
+||picshare.hair^$all
+||picshare.mom^$all
+||picshost.pics^$all
+||picturestash.mom^$all
+||screenshare.pics^$all
+||screenshot.best^$all
+||screensnaps.top^$all
+||sharevault.cloud^$all
+||shrekis.life^$all
+||stopify.co^$all
+||xtube.chat^$all

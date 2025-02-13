@@ -1,9 +1,9 @@
 !
 ! Title: Shortlink DNS Filter
 ! Description: Shortlink Shield Filter
-! Version: 1.0.0.7
+! Version: 1.0.0.8
 ! Homepage: https://github.com/Null772/Shortlink-DNS-Filter
-! Last modified: 2025-02-13T06:45:39.824Z
+! Last modified: 2025-02-13T22:18:44.192Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -233,3 +233,43 @@
 ||m.site.naver.com^
 ||vki.kr^
 ||lyl.su^
+||00m.in^
+||9lick.me^
+||account.beauty^
+||bank.charity^
+||clickthis.photo^
+||cryp-o.online^
+||crypto-o.click^
+||customer.autos^
+||customersupport.click^
+||foot.wiki^
+||gamergirl.pro^
+||gamingfun.me^
+||imagehub.fun^
+||imagestash.pics^
+||imagevault.cloud^
+||imghost.pics^
+||location.cyou^
+||map-s.online^
+||mapss.icu^
+||mymap.icu^
+||mymap.quest^
+||mymassive.pics^
+||mypicparade.pics^
+||myprivate.pics^
+||myprivate.yachts^
+||photospace.life^
+||photovault.pics^
+||photovault.store^
+||pichost.pics^
+||picshare.hair^
+||picshare.mom^
+||picshost.pics^
+||picturestash.mom^
+||screenshare.pics^
+||screenshot.best^
+||screensnaps.top^
+||sharevault.cloud^
+||shrekis.life^
+||stopify.co^
+||xtube.chat^
