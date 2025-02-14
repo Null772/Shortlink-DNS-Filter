@@ -1,9 +1,9 @@
 !
 ! Title: Shortlink DNS Filter
 ! Description: Shortlink Shield Filter
-! Version: 1.0.0.8
+! Version: 1.0.0.9
 ! Homepage: https://github.com/Null772/Shortlink-DNS-Filter
-! Last modified: 2025-02-13T22:18:44.192Z
+! Last modified: 2025-02-14T02:02:27.022Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -273,3 +273,23 @@
 ||shrekis.life^
 ||stopify.co^
 ||xtube.chat^
+||2cm.es^
+||bitly.com^
+||l8.nu^
+||link-cut.com^
+||linktr.ee^
+||mini-url.net^
+||miniurl.top^
+||nal.la^
+||oqp.ru^
+||pctools.cc^
+||qr1.be^
+||qrcode-tiger.com^
+||redirhub.com^
+||s.godo.kr^
+||shorturl.asia^
+||solapi.com^
+||solapi.io^
+||suo.yt^
+||urlc.net^
+||yoro.cc^
