@@ -19,8 +19,6 @@ https://cdn.jsdelivr.net/gh/Null772/Shortlink-DNS-Filter@latest/Shortlink_Filter
 
 ### 기타
 
-[숏링크 차단 리스트 참고](https://rentry.co/gtwgeixg)
-
 [애드가드 갤](https://gall.dcinside.com/mgallery/board/view/?id=adguard&no=948)
 
 
