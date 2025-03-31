@@ -1,9 +1,9 @@
 !
 ! Title: Shortlink DNS Filter
 ! Description: Shortlink Shield Filter
-! Version: 1.0.2.1
+! Version: 1.0.2.2
 ! Homepage: https://github.com/Null772/Shortlink-DNS-Filter
-! Last modified: 2025-03-31T02:52:12.853Z
+! Last modified: 2025-03-31T03:51:11.770Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -346,3 +346,15 @@
 ||bitl.to^
 ||unl.one^
 ||lock.pub^
+||iitly.com^
+||163.fm^
+||lnk.ru^
+||waa.ai^
+||foxly.me^
+||foxly.cyou^
+||doiop.com^
+||ouo.io^
+||zzb.bz^
+||tiny.one^
+||rotf.lol^
+||4udl.short.gy^
