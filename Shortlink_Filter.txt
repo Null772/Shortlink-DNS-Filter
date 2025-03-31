@@ -1,9 +1,9 @@
 !
 ! Title: Shortlink DNS Filter
 ! Description: Shortlink Shield Filter
-! Version: 1.0.1.9
+! Version: 1.0.2.0
 ! Homepage: https://github.com/Null772/Shortlink-DNS-Filter
-! Last modified: 2025-03-23T21:03:50.886Z
+! Last modified: 2025-03-31T02:26:26.126Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -319,3 +319,27 @@
 ||lj.mk^
 ||snip.ink^
 ||606.su^
+||adf.ly^
+||goo.by^
+||goolnk.com^
+||iii.im^
+||m11.kr^
+||meba.link^
+||n9.cl^
+||pixelfy.me^
+||rebrandly.com^
+||recut.in^
+||s.uconn.edu^
+||shlink.io^
+||tny.im^
+||ucut.in^
+||url.obsd.com^
+||xzx.kr^
+||bitly.cx^
+||hideuri.com^
+||hbr.tc^
+||3c5.com^
+||shorturl.ae^
+||urlzs.com^
+||short.rip^
+||polr.me^

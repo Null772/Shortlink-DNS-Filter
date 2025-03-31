@@ -1,9 +1,9 @@
 !
 ! Title: Shortlink User Rules Filter
 ! Description: Shortlink User Rules Shield Filter
-! Version: 1.0.1.9
+! Version: 1.0.2.0
 ! Homepage: https://github.com/Null772/Shortlink-DNS-Filter
-! Last modified: 2025-03-23T21:03:50.886Z
+! Last modified: 2025-03-31T02:26:26.126Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -317,3 +317,27 @@
 ||lj.mk^$all
 ||snip.ink^$all
 ||606.su^$all
+||adf.ly^$all
+||goo.by^$all
+||goolnk.com^$all
+||iii.im^$all
+||m11.kr^$all
+||meba.link^$all
+||n9.cl^$all
+||pixelfy.me^$all
+||rebrandly.com^$all
+||recut.in^$all
+||s.uconn.edu^$all
+||shlink.io^$all
+||tny.im^$all
+||ucut.in^$all
+||url.obsd.com^$all
+||xzx.kr^$all
+||bitly.cx^$all
+||hideuri.com^$all
+||hbr.tc^$all
+||3c5.com^$all
+||shorturl.ae^$all
+||urlzs.com^$all
+||short.rip^$all
+||polr.me^$all
