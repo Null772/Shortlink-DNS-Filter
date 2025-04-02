@@ -1,9 +1,9 @@
 !
 ! Title: Shortlink DNS Filter
 ! Description: Shortlink Shield Filter
-! Version: 1.0.2.2
+! Version: 1.0.2.3
 ! Homepage: https://github.com/Null772/Shortlink-DNS-Filter
-! Last modified: 2025-03-31T03:51:11.770Z
+! Last modified: 2025-04-02T09:25:44.345Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -358,3 +358,30 @@
 ||tiny.one^
 ||rotf.lol^
 ||4udl.short.gy^
+||ye.pe^
+||tinyim.com^
+||inlnk.ru^
+||surl.li^
+||kurl.ru^
+||sppro.org^
+||linkcuts.org^
+||ishortn.ink^
+||tpv.sr^
+||ko.gl^
+||short.fyi^
+||bitly.pk^
+||cutmy.link^
+||y.gy^
+||wait.list^
+||1e.to^
+||urless.com^
+||linkmn.gr^
+||lc.cx^
+||shotcut.in^
+||katana.run^
+||puru.co^
+||todook.tomly.link^
+||tnfy.cc^
+||socx.ly^
+||xyz.ly^
+||upl.inc^
