@@ -1,9 +1,9 @@
 !
 ! Title: Shortlink User Rules Filter
 ! Description: Shortlink User Rules Shield Filter
-! Version: 1.0.3.8
+! Version: 1.0.3.9
 ! Homepage: https://github.com/Null772/Shortlink-DNS-Filter
-! Last modified: 2025-05-14T17:12:05.617Z
+! Last modified: 2025-05-18T10:07:09.111Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -803,3 +803,5 @@
 ||42j.cn^$all
 ||i0k.cc^$all
 ||985.so^$all
+||302.jp^$all
+||oiiiiii.io^$all
