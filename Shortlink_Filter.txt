@@ -1,9 +1,9 @@
 !
 ! Title: Shortlink DNS Filter
 ! Description: Shortlink Shield Filter
-! Version: 1.0.4.1
+! Version: 1.0.4.2
 ! Homepage: https://github.com/Null772/Shortlink-DNS-Filter
-! Last modified: 2025-06-06T07:13:58.666Z
+! Last modified: 2025-06-07T06:25:55.338Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -809,3 +809,4 @@
 ||oiiiiii.io^
 ||cinside.co.kr^
 ||coupa.ng^
+||nuuthang.com^
