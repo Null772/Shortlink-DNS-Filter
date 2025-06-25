@@ -1,9 +1,9 @@
 !
 ! Title: Shortlink User Rules Filter
 ! Description: Shortlink User Rules Shield Filter
-! Version: 1.0.4.5
+! Version: 1.0.4.6
 ! Homepage: https://github.com/Null772/Shortlink-DNS-Filter
-! Last modified: 2025-06-23T03:04:38.734Z
+! Last modified: 2025-06-25T12:18:20.435Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -813,3 +813,7 @@
 ||shortlinks.com.tr^$all
 ||shortlinkapp.com^$all
 ||ishort.su^$all
+||3.sv^$all
+||webaze.net^$all
+||wbze.de^$all
+||oyn.at^$all
