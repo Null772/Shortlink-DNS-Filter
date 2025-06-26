@@ -1,9 +1,9 @@
 !
 ! Title: Shortlink DNS Filter
 ! Description: Shortlink Shield Filter
-! Version: 1.0.4.6
+! Version: 1.0.4.7
 ! Homepage: https://github.com/Null772/Shortlink-DNS-Filter
-! Last modified: 2025-06-25T12:18:20.435Z
+! Last modified: 2025-06-26T13:05:06.796Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -819,3 +819,5 @@
 ||webaze.net^
 ||wbze.de^
 ||oyn.at^
+||googie.co.kr^
+||tr.ee^
