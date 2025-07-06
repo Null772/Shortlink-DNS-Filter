@@ -1,9 +1,9 @@
 !
 ! Title: Shortlink DNS Filter
 ! Description: Shortlink Shield Filter
-! Version: 1.0.4.9
+! Version: 1.0.5.0
 ! Homepage: https://github.com/Null772/Shortlink-DNS-Filter
-! Last modified: 2025-07-06T12:43:38.077Z
+! Last modified: 2025-07-06T12:54:17.036Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -44,6 +44,7 @@
 ||3.ly^
 ||3.sv^
 ||302.jp^
+||3050career.com^
 ||3c5.com^
 ||3ra.be^
 ||3x.si^
@@ -394,6 +395,7 @@
 ||linkn.co^
 ||linksplit.com^
 ||linktr.ee^
+||linkupcenter.co.kr^
 ||lj.mk^
 ||lkdin.io^
 ||llu.ch^
@@ -554,6 +556,7 @@
 ||rplg.co^
 ||rr.lu^
 ||rt.se^
+||ruiiweb.com^
 ||rybak.tk^
 ||s-url.fr^
 ||s.ee^
@@ -658,7 +661,8 @@
 ||tb.cn.hn^
 ||tdjt.cz^
 ||teIegram.kr^
-||teiegram.kr^
+||teambiind.com^
+||teiegram.kr
 ||tek.io^
 ||thesa.us^
 ||thesuper.click^
@@ -783,7 +787,6 @@
 ||wtc.la^
 ||wu.cz^
 ||ww7.fr^
-||www.teambiind.com^
 ||wwy.me^
 ||x.co^
 ||x.nu^

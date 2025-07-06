@@ -1,9 +1,9 @@
 !
 ! Title: Shortlink User Rules Filter
 ! Description: Shortlink User Rules Shield Filter
-! Version: 1.0.4.9
+! Version: 1.0.5.0
 ! Homepage: https://github.com/Null772/Shortlink-DNS-Filter
-! Last modified: 2025-07-06T12:43:38.077Z
+! Last modified: 2025-07-06T12:54:17.036Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -40,6 +40,7 @@
 ||3.ly^$all
 ||3.sv^$all
 ||302.jp^$all
+||3050career.com^$all
 ||3c5.com^$all
 ||3ra.be^$all
 ||3x.si^$all
@@ -390,6 +391,7 @@
 ||linkn.co^$all
 ||linksplit.com^$all
 ||linktr.ee^$all
+||linkupcenter.co.kr^$all
 ||lj.mk^$all
 ||lkdin.io^$all
 ||llu.ch^$all
@@ -550,6 +552,7 @@
 ||rplg.co^$all
 ||rr.lu^$all
 ||rt.se^$all
+||ruiiweb.com^$all
 ||rybak.tk^$all
 ||s-url.fr^$all
 ||s.ee^$all
@@ -654,7 +657,8 @@
 ||tb.cn.hn^$all
 ||tdjt.cz^$all
 ||teIegram.kr^$all
-||teiegram.kr^$all
+||teambiind.com^$all
+||teiegram.kr
 ||tek.io^$all
 ||thesa.us^$all
 ||thesuper.click^$all
@@ -779,7 +783,6 @@
 ||wtc.la^$all
 ||wu.cz^$all
 ||ww7.fr^$all
-||www.teambiind.com^$all
 ||wwy.me^$all
 ||x.co^$all
 ||x.nu^$all
