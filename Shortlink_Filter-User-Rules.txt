@@ -1,9 +1,9 @@
 !
 ! Title: Shortlink User Rules Filter
 ! Description: Shortlink User Rules Shield Filter
-! Version: 1.0.5.0
+! Version: 1.0.5.1
 ! Homepage: https://github.com/Null772/Shortlink-DNS-Filter
-! Last modified: 2025-07-06T12:54:17.036Z
+! Last modified: 2025-07-09T17:42:51.353Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -166,6 +166,7 @@
 ||bohumpick.blog^$all
 ||boi.re^$all
 ||booly.kr^$all
+||borame.co.kr^$all
 ||bote.me^$all
 ||bougn.at^$all
 ||br4.in^$all
@@ -218,6 +219,7 @@
 ||cut.sk^$all
 ||cut.to^$all
 ||cutmy.link^$all
+||cuts.top^$all
 ||cutt.eu^$all
 ||cutt.ly^$all
 ||cutt.us^$all
@@ -233,9 +235,11 @@
 ||dev.me^$all
 ||devlab.link^$all
 ||dft.ba^$all
+||dlink.kr^$all
 ||dlvr.it^$all
 ||doiop.com^$all
 ||dok.do^$all
+||dokdo.in^$all
 ||dokdo.life^$all
 ||dolp.cc^$all
 ||dopice.sk^$all
@@ -321,6 +325,7 @@
 ||ick.li^$all
 ||icks.ro^$all
 ||igor.shortcm.life^$all
+||iii.ad^$all
 ||iii.im^$all
 ||iiiii.in^$all
 ||iil.la^$all
@@ -357,6 +362,8 @@
 ||kay.so^$all
 ||kfd.pl^$all
 ||kisu.me^$all
+||kkm.cun.kr^$all
+||ko.fm^$all
 ||ko.gl^$all
 ||koe.kr^$all
 ||korta.nu^$all
@@ -705,6 +712,8 @@
 ||twtr.in^$all
 ||twurl.nl^$all
 ||u.to^$all
+||u2.to^$all
+||u2u.kr^$all
 ||u3v.cn^$all
 ||u6v.cn^$all
 ||ual.kr^$all
@@ -713,6 +722,7 @@
 ||ucut.in^$all
 ||ug.cz^$all
 ||ul.rs^$all
+||ulink.kr^$all
 ||ulmt.in^$all
 ||unl.one^$all
 ||unlc.us^$all
@@ -728,11 +738,14 @@
 ||url.rewq.co.kr^$all
 ||url.seroweb.net^$all
 ||url.sg^$all
+||url.swygbro.com^$all
 ||url2.fr^$all
 ||url5.org^$all
 ||urlc.net^$all
 ||urless.com^$all
+||urli.info^$all
 ||urlin.it^$all
+||urll.kr^$all
 ||urlr.me^$all
 ||urls.fr^$all
 ||urluno.com^$all

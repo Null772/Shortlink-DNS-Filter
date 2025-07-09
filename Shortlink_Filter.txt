@@ -1,14 +1,16 @@
 !
 ! Title: Shortlink DNS Filter
 ! Description: Shortlink Shield Filter
-! Version: 1.0.5.0
+! Version: 1.0.5.1
 ! Homepage: https://github.com/Null772/Shortlink-DNS-Filter
-! Last modified: 2025-07-06T12:54:17.036Z
+! Last modified: 2025-07-09T17:42:51.353Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
+||104.21.58.46
 ||158.247.192.0/24
 ||158.247.202.213
+||172.67.156.61
 ||176.223.109.0/24
 ||46.30.41.0/24
 ||00m.in^
@@ -170,6 +172,7 @@
 ||bohumpick.blog^
 ||boi.re^
 ||booly.kr^
+||borame.co.kr^
 ||bote.me^
 ||bougn.at^
 ||br4.in^
@@ -222,6 +225,7 @@
 ||cut.sk^
 ||cut.to^
 ||cutmy.link^
+||cuts.top^
 ||cutt.eu^
 ||cutt.ly^
 ||cutt.us^
@@ -237,9 +241,11 @@
 ||dev.me^
 ||devlab.link^
 ||dft.ba^
+||dlink.kr^
 ||dlvr.it^
 ||doiop.com^
 ||dok.do^
+||dokdo.in^
 ||dokdo.life^
 ||dolp.cc^
 ||dopice.sk^
@@ -325,6 +331,7 @@
 ||ick.li^
 ||icks.ro^
 ||igor.shortcm.life^
+||iii.ad^
 ||iii.im^
 ||iiiii.in^
 ||iil.la^
@@ -361,6 +368,8 @@
 ||kay.so^
 ||kfd.pl^
 ||kisu.me^
+||kkm.cun.kr^
+||ko.fm^
 ||ko.gl^
 ||koe.kr^
 ||korta.nu^
@@ -709,6 +718,8 @@
 ||twtr.in^
 ||twurl.nl^
 ||u.to^
+||u2.to^
+||u2u.kr^
 ||u3v.cn^
 ||u6v.cn^
 ||ual.kr^
@@ -717,6 +728,7 @@
 ||ucut.in^
 ||ug.cz^
 ||ul.rs^
+||ulink.kr^
 ||ulmt.in^
 ||unl.one^
 ||unlc.us^
@@ -732,11 +744,14 @@
 ||url.rewq.co.kr^
 ||url.seroweb.net^
 ||url.sg^
+||url.swygbro.com^
 ||url2.fr^
 ||url5.org^
 ||urlc.net^
 ||urless.com^
+||urli.info^
 ||urlin.it^
+||urll.kr^
 ||urlr.me^
 ||urls.fr^
 ||urluno.com^
