@@ -1,9 +1,9 @@
 !
 ! Title: Shortlink DNS Filter
 ! Description: Shortlink Shield Filter
-! Version: 1.0.5.1
+! Version: 1.0.5.2
 ! Homepage: https://github.com/Null772/Shortlink-DNS-Filter
-! Last modified: 2025-07-09T17:42:51.353Z
+! Last modified: 2025-08-06T04:17:20.734Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -83,6 +83,7 @@
 ||Funky.to^
 ||Goo-GL.me^
 ||IRI.MY^
+||Iinkedin.kr^
 ||JellyURL.com^
 ||L9.fr^
 ||LINC.kr^
@@ -262,6 +263,7 @@
 ||easy-life.today^
 ||ecra.se^
 ||ely.re^
+||enlaza.site^
 ||epinote.com^
 ||erax.cz^
 ||erw.cz^
@@ -554,6 +556,7 @@
 ||relink.fr^
 ||replug.link^
 ||reurl.cc^
+||reurl.im^
 ||reurl.kr^
 ||reut.rs^
 ||ri.ms^
@@ -586,6 +589,7 @@
 ||segue.se^
 ||seonyul.info^
 ||seonyul.kr^
+||seouI.city^
 ||sfi.st^
 ||sh.st^
 ||shar.as^
