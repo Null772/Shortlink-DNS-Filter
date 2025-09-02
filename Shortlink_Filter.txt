@@ -1,9 +1,9 @@
 !
 ! Title: Shortlink DNS Filter
 ! Description: Shortlink Shield Filter
-! Version: 1.0.5.2
+! Version: 1.0.5.3
 ! Homepage: https://github.com/Null772/Shortlink-DNS-Filter
-! Last modified: 2025-08-06T04:17:20.734Z
+! Last modified: 2025-09-02T22:23:05.240Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -24,6 +24,7 @@
 ||126.am^
 ||163.fm^
 ||1e.to^
+||1good.pics^
 ||1ig.cc^
 ||1ink.cc^
 ||1tk.us^
@@ -139,10 +140,12 @@
 ||aqva.pl^
 ||arah.in^
 ||ares.tl^
+||arrrrt.art^
 ||asso.in^
 ||atomin.xyz^
 ||au.ms^
 ||avbc.me^
+||avfree.kr^
 ||ayt.fr^
 ||azali.fr^
 ||b00.fr^
@@ -152,6 +155,7 @@
 ||bank.charity^
 ||bc.vc^
 ||bee4.biz^
+||best-ins.blog^
 ||bestins.pics^
 ||bestplus.kr^
 ||bfurl.me^
@@ -203,6 +207,8 @@
 ||cjb.net^
 ||clck.ru^
 ||clean-water.kr^
+||cleaneye.shop^
+||clearseoul.kr^
 ||cli.gs^
 ||clickthis.photo^
 ||clicky.me^
@@ -271,6 +277,7 @@
 ||ex9.co^
 ||ezurl.cc^
 ||fb.me^
+||fc2.pics^
 ||fff.re^
 ||fff.to^
 ||fff.wf^
@@ -337,6 +344,7 @@
 ||iii.im^
 ||iiiii.in^
 ||iil.la^
+||iinkedin.kr^
 ||iitly.com^
 ||iky.fr^
 ||ilix.in^
@@ -368,8 +376,10 @@
 ||kask.us^
 ||katana.run^
 ||kay.so^
+||kcults.shop^
 ||kfd.pl^
 ||kisu.me^
+||kitt.today^
 ||kkm.cun.kr^
 ||ko.fm^
 ||ko.gl^
@@ -433,6 +443,7 @@
 ||m1p.fr^
 ||m3mi.com^
 ||m6z.cn^
+||macsafe.digital^
 ||make.my^
 ||map-s.online^
 ||mapss.icu^
@@ -590,6 +601,7 @@
 ||seonyul.info^
 ||seonyul.kr^
 ||seouI.city^
+||seoui.city^
 ||sfi.st^
 ||sh.st^
 ||shar.as^
@@ -676,6 +688,7 @@
 ||teIegram.kr^
 ||teambiind.com^
 ||teiegram.kr
+||teiegram.kr^
 ||tek.io^
 ||thesa.us^
 ||thesuper.click^
@@ -703,6 +716,7 @@
 ||to.ly^
 ||todook.tomly.link^
 ||tohle.de^
+||tokyohot.today^
 ||tpmr.com^
 ||tpv.sr^
 ||tr.ee^
@@ -825,6 +839,7 @@
 ||xub.me^
 ||xurls.co^
 ||xyz.ly^
+||xyzvx.xyz^
 ||xzx.kr^
 ||y.gy^
 ||yagoa.fr^

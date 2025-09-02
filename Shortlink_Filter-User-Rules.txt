@@ -1,9 +1,9 @@
 !
 ! Title: Shortlink User Rules Filter
 ! Description: Shortlink User Rules Shield Filter
-! Version: 1.0.5.2
+! Version: 1.0.5.3
 ! Homepage: https://github.com/Null772/Shortlink-DNS-Filter
-! Last modified: 2025-08-06T04:17:20.734Z
+! Last modified: 2025-09-02T22:23:05.240Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -18,6 +18,7 @@
 ||126.am^$all
 ||163.fm^$all
 ||1e.to^$all
+||1good.pics^$all
 ||1ig.cc^$all
 ||1ink.cc^$all
 ||1tk.us^$all
@@ -133,10 +134,12 @@
 ||aqva.pl^$all
 ||arah.in^$all
 ||ares.tl^$all
+||arrrrt.art^$all
 ||asso.in^$all
 ||atomin.xyz^$all
 ||au.ms^$all
 ||avbc.me^$all
+||avfree.kr^$all
 ||ayt.fr^$all
 ||azali.fr^$all
 ||b00.fr^$all
@@ -146,6 +149,7 @@
 ||bank.charity^$all
 ||bc.vc^$all
 ||bee4.biz^$all
+||best-ins.blog^$all
 ||bestins.pics^$all
 ||bestplus.kr^$all
 ||bfurl.me^$all
@@ -197,6 +201,8 @@
 ||cjb.net^$all
 ||clck.ru^$all
 ||clean-water.kr^$all
+||cleaneye.shop^$all
+||clearseoul.kr^$all
 ||cli.gs^$all
 ||clickthis.photo^$all
 ||clicky.me^$all
@@ -265,6 +271,7 @@
 ||ex9.co^$all
 ||ezurl.cc^$all
 ||fb.me^$all
+||fc2.pics^$all
 ||fff.re^$all
 ||fff.to^$all
 ||fff.wf^$all
@@ -331,6 +338,7 @@
 ||iii.im^$all
 ||iiiii.in^$all
 ||iil.la^$all
+||iinkedin.kr^$all
 ||iitly.com^$all
 ||iky.fr^$all
 ||ilix.in^$all
@@ -362,8 +370,10 @@
 ||kask.us^$all
 ||katana.run^$all
 ||kay.so^$all
+||kcults.shop^$all
 ||kfd.pl^$all
 ||kisu.me^$all
+||kitt.today^$all
 ||kkm.cun.kr^$all
 ||ko.fm^$all
 ||ko.gl^$all
@@ -427,6 +437,7 @@
 ||m1p.fr^$all
 ||m3mi.com^$all
 ||m6z.cn^$all
+||macsafe.digital^$all
 ||make.my^$all
 ||map-s.online^$all
 ||mapss.icu^$all
@@ -584,6 +595,7 @@
 ||seonyul.info^$all
 ||seonyul.kr^$all
 ||seouI.city^$all
+||seoui.city^$all
 ||sfi.st^$all
 ||sh.st^$all
 ||shar.as^$all
@@ -670,6 +682,7 @@
 ||teIegram.kr^$all
 ||teambiind.com^$all
 ||teiegram.kr
+||teiegram.kr^$all
 ||tek.io^$all
 ||thesa.us^$all
 ||thesuper.click^$all
@@ -697,6 +710,7 @@
 ||to.ly^$all
 ||todook.tomly.link^$all
 ||tohle.de^$all
+||tokyohot.today^$all
 ||tpmr.com^$all
 ||tpv.sr^$all
 ||tr.ee^$all
@@ -819,6 +833,7 @@
 ||xub.me^$all
 ||xurls.co^$all
 ||xyz.ly^$all
+||xyzvx.xyz^$all
 ||xzx.kr^$all
 ||y.gy^$all
 ||yagoa.fr^$all
