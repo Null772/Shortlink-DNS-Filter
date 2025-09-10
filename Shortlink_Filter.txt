@@ -1,9 +1,9 @@
 !
 ! Title: Shortlink DNS Filter
 ! Description: Shortlink Shield Filter
-! Version: 1.0.5.5
+! Version: 1.0.5.6
 ! Homepage: https://github.com/Null772/Shortlink-DNS-Filter
-! Last modified: 2025-09-10T11:13:42.690Z
+! Last modified: 2025-09-10T20:39:37.020Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -461,6 +461,7 @@
 ||miniurl.top^
 ||minu.me^
 ||mlnl.me^
+||mnbl.kr^
 ||more.sh^
 ||msoz.kr^
 ||mtw.so^
@@ -692,6 +693,7 @@
 ||teambIind.com^
 ||teambiind.com^
 ||teiegram.kr
+||teiegram.kr^
 ||tek.io^
 ||thesa.us^
 ||thesuper.click^
@@ -711,6 +713,7 @@
 ||tj.is^
 ||tldr.sk^
 ||tllg.net^
+||tm1.kr^
 ||tnfy.cc^
 ||tnij.org^
 ||tny.cz^
@@ -798,6 +801,7 @@
 ||vivoldi.com^
 ||vivoldi.kr^
 ||vki.kr^
+||vlp.kr^
 ||vo.la^
 ||vot.kr^
 ||vov.li^
