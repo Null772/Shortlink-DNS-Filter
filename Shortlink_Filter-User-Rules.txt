@@ -1,13 +1,14 @@
 !
 ! Title: Shortlink User Rules Filter
 ! Description: Shortlink User Rules Shield Filter
-! Version: 1.0.5.6
+! Version: 1.0.5.7
 ! Homepage: https://github.com/Null772/Shortlink-DNS-Filter
-! Last modified: 2025-09-10T20:39:37.020Z
+! Last modified: 2025-09-25T00:23:38.828Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
 ||00m.in^$all
+||02ip.ru^$all
 ||0cn.de^$all
 ||0fj.cc^$all
 ||0rz.tw^$all
@@ -33,6 +34,7 @@
 ||2doc.net^$all
 ||2fear.com^$all
 ||2long.cc^$all
+||2no.co^$all
 ||2s.gg^$all
 ||2tu.me^$all
 ||2tu.us^$all
@@ -185,6 +187,8 @@
 ||c11.kr^$all
 ||cachor.ro^$all
 ||captur.in^$all
+||catsnthing.com^$all
+||catsnthings.fun^$all
 ||cbs.so^$all
 ||cbsn.ws^$all
 ||cbug.cc^$all
@@ -219,6 +223,7 @@
 ||cupn.tk^$all
 ||cur.lt^$all
 ||cur.lv^$all
+||curiouscat.club^$all
 ||curl.im^$all
 ||customer.autos^$all
 ||customersupport.click^$all
@@ -237,6 +242,7 @@
 ||da24.blog^$all
 ||daa.pl^$all
 ||dai.ly^$all
+||dateing.club^$all
 ||dd.ma^$all
 ||ddp.net^$all
 ||dev.me^$all
@@ -269,6 +275,7 @@
 ||erw.cz^$all
 ||eurl.co.kr^$all
 ||ex9.co^$all
+||ezstat.ru^$all
 ||ezurl.cc^$all
 ||fb.me^$all
 ||fc2.pics^$all
@@ -282,9 +289,12 @@
 ||foe.hn^$all
 ||folu.me^$all
 ||foot.wiki^$all
+||fortnite.space^$all
+||fortnitechat.site^$all
 ||fox.ly^$all
 ||foxly.cyou^$all
 ||foxly.me^$all
+||freegiftcards.co^$all
 ||freze.it^$all
 ||ft12.com^$all
 ||fur.ly^$all
@@ -295,6 +305,7 @@
 ||gaei.tk^$all
 ||gale.io^$all
 ||gamergirl.pro^$all
+||gaming-at-my.best^$all
 ||gamingfun.me^$all
 ||gclnk.com^$all
 ||getsmart.link^$all
@@ -312,6 +323,7 @@
 ||googie.co.kr^$all
 ||goolnk.com^$all
 ||gourl.kr^$all
+||grabify.link^$all
 ||grem.io^$all
 ||gtz.kr^$all
 ||guiama.is^$all
@@ -319,6 +331,7 @@
 ||han.gl^$all
 ||hana.icu^$all
 ||hbr.tc^$all
+||headshot.monster^$all
 ||hide.my^$all
 ||hideuri.com^$all
 ||hill.cm^$all
@@ -344,12 +357,21 @@
 ||iky.fr^$all
 ||ilix.in^$all
 ||imagehub.fun^$all
+||imageshare.best^$all
 ||imagestash.pics^$all
 ||imagevault.cloud^$all
 ||imghost.pics^$all
 ||in.mt^$all
 ||info.ms^$all
 ||inlnk.ru^$all
+||ipgrabber.ru^$all
+||ipgraber.ru^$all
+||iplis.ru^$all
+||iplogger.co^$all
+||iplogger.com^$all
+||iplogger.info^$all
+||iplogger.org^$all
+||iplogger.ru^$all
 ||is.gd^$all
 ||ishort.ink^$all
 ||ishort.su^$all
@@ -364,6 +386,7 @@
 ||jdem.cz^$all
 ||jieb.be^$all
 ||jl.mk^$all
+||joinmy.site^$all
 ||joturl.com^$all
 ||jp22.net^$all
 ||jqw.de^$all
@@ -428,6 +451,7 @@
 ||lnp.sn^$all
 ||location.cyou^$all
 ||lock.pub^$all
+||lovebird.guru^$all
 ||lp25.fr^$all
 ||lrl.kr^$all
 ||lstu.fr^$all
@@ -463,6 +487,7 @@
 ||mymap.icu^$all
 ||mymap.quest^$all
 ||mymassive.pics^$all
+||mypic.icu^$all
 ||mypicparade.pics^$all
 ||myplan.blog^$all
 ||myprivate.pics^$all
@@ -492,6 +517,7 @@
 ||oiiiiii.io^$all
 ||okok.fr^$all
 ||oqp.ru^$all
+||otherhalf.life^$all
 ||ou.af^$all
 ||ou.gd^$all
 ||oua.be^$all
@@ -525,6 +551,7 @@
 ||ppt.li^$all
 ||prejit.cz^$all
 ||profit.store^$all
+||progaming.monster^$all
 ||psv.kr^$all
 ||ptab.it^$all
 ||ptm.ro^$all
@@ -588,6 +615,7 @@
 ||sagyap.tk^$all
 ||san.aq^$all
 ||sbz.kr^$all
+||screenshare.host^$all
 ||screenshare.pics^$all
 ||screenshot.best^$all
 ||screensnaps.top^$all
@@ -724,6 +752,7 @@
 ||trib.al^$all
 ||trick.ly^$all
 ||trkr.ws^$all
+||trulove.guru^$all
 ||trunc.it^$all
 ||tt.vg^$all
 ||tuney.kr^$all
@@ -851,10 +880,12 @@
 ||yeca.eu^$all
 ||yect.com^$all
 ||yep.it^$all
+||yip.su^$all
 ||yogh.me^$all
 ||yon.ir^$all
 ||yoro.cc^$all
 ||youfap.me^$all
+||yourmy.monster^$all
 ||ysear.ch^$all
 ||yyv.co^$all
 ||z9.fr^$all
