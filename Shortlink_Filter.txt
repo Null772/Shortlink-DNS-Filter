@@ -1,9 +1,9 @@
 !
 ! Title: Shortlink DNS Filter
 ! Description: Shortlink Shield Filter
-! Version: 1.0.5.7
+! Version: 1.0.5.8
 ! Homepage: https://github.com/Null772/Shortlink-DNS-Filter
-! Last modified: 2025-09-25T00:23:38.828Z
+! Last modified: 2025-09-26T00:29:07.690Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -19,6 +19,7 @@
 ||02ip.ru^
 ||0cn.de^
 ||0fj.cc^
+||0oo.kr^
 ||0rz.tw^
 ||0s.lv^
 ||0x3.me^
@@ -48,6 +49,7 @@
 ||2tu.us^
 ||2ty.in^
 ||2u.xf.cz^
+||2zz.kr^
 ||3.ly^
 ||3.sv^
 ||302.jp^
@@ -72,6 +74,7 @@
 ||73.nu^
 ||76.gd^
 ||77.ai^
+||77n.kr^
 ||7fth.cc^
 ||7li.in^
 ||7vd.cn^
@@ -372,6 +375,7 @@
 ||in.mt^
 ||info.ms^
 ||inlnk.ru^
+||insurance-scan.kr^
 ||ipgrabber.ru^
 ||ipgraber.ru^
 ||iplis.ru^
