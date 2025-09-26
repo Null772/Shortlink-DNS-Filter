@@ -1,9 +1,9 @@
 !
 ! Title: Shortlink User Rules Filter
 ! Description: Shortlink User Rules Shield Filter
-! Version: 1.0.5.8
+! Version: 1.0.5.9
 ! Homepage: https://github.com/Null772/Shortlink-DNS-Filter
-! Last modified: 2025-09-26T00:29:07.690Z
+! Last modified: 2025-09-26T23:29:37.208Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -825,6 +825,7 @@
 ||vgn.me^$all
 ||vivoldi.com^$all
 ||vivoldi.kr^$all
+||vjk.fr^$all
 ||vki.kr^$all
 ||vlp.kr^$all
 ||vo.la^$all

@@ -1,9 +1,9 @@
 !
 ! Title: Shortlink DNS Filter
 ! Description: Shortlink Shield Filter
-! Version: 1.0.5.8
+! Version: 1.0.5.9
 ! Homepage: https://github.com/Null772/Shortlink-DNS-Filter
-! Last modified: 2025-09-26T00:29:07.690Z
+! Last modified: 2025-09-26T23:29:37.208Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -15,6 +15,11 @@
 ||172.67.156.61
 ||176.223.109.0/24
 ||46.30.41.0/24
+||66.33.60.0/24
+||66.33.60.194
+||76.76.21.0/24
+||76.76.21.123
+||76.76.21.21
 ||00m.in^
 ||02ip.ru^
 ||0cn.de^
@@ -833,6 +838,7 @@
 ||vgn.me^
 ||vivoldi.com^
 ||vivoldi.kr^
+||vjk.fr^
 ||vki.kr^
 ||vlp.kr^
 ||vo.la^
