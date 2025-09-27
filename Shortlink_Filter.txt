@@ -1,9 +1,9 @@
 !
 ! Title: Shortlink DNS Filter
 ! Description: Shortlink Shield Filter
-! Version: 1.0.6.1
+! Version: 1.0.6.2
 ! Homepage: https://github.com/Null772/Shortlink-DNS-Filter
-! Last modified: 2025-09-27T00:11:47.001Z
+! Last modified: 2025-09-27T15:37:57.549Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -15,10 +15,10 @@
 ||172.67.156.61
 ||176.223.109.0/24
 ||46.30.41.0/24
-||66.33.60.0/24
-||66.33.60.194
-||76.76.21.0/24
+||66.33.60.35
+||66.33.60.67
 ||76.76.21.123
+||76.76.21.142
 ||76.76.21.21
 ||00m.in^
 ||02ip.ru^
@@ -436,6 +436,7 @@
 ||lc-s.co^
 ||lc.cx^
 ||lcut.in^
+||letop10.^
 ||libero.it^
 ||lick.my^
 ||lien.li^
