@@ -1,25 +1,25 @@
 !
 ! Title: Shortlink DNS Filter
 ! Description: Shortlink Shield Filter
-! Version: 1.0.6.0
+! Version: 1.0.6.1
 ! Homepage: https://github.com/Null772/Shortlink-DNS-Filter
-! Last modified: 2025-09-26T23:47:27.859Z
+! Last modified: 2025-09-27T00:11:47.001Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-||103.106.72.118^
-||104.21.58.46^
-||110.45.146.111^
-||158.247.192.0/24^
-||158.247.202.213^
-||172.67.156.61^
-||176.223.109.0/24^
-||46.30.41.0/24^
-||66.33.60.0/24^
-||66.33.60.194^
-||76.76.21.0/24^
-||76.76.21.123^
-||76.76.21.21^
+||103.106.72.118
+||104.21.58.46
+||110.45.146.111
+||158.247.192.0/24
+||158.247.202.213
+||172.67.156.61
+||176.223.109.0/24
+||46.30.41.0/24
+||66.33.60.0/24
+||66.33.60.194
+||76.76.21.0/24
+||76.76.21.123
+||76.76.21.21
 ||00m.in^
 ||02ip.ru^
 ||0cn.de^
@@ -53,6 +53,7 @@
 ||2tu.me^
 ||2tu.us^
 ||2ty.in^
+||2u.xf.cz^
 ||2zz.kr^
 ||3.ly^
 ||3.sv^
@@ -64,7 +65,9 @@
 ||42j.cn^
 ||4i.ae^
 ||4ms.me^
+||4udl.short.gy^
 ||4view.me^
+||51v.short.gy^
 ||5em.cz^
 ||5url.net^
 ||5z8.info^
@@ -186,6 +189,7 @@
 ||bohumpick.blog^
 ||boi.re^
 ||booly.kr^
+||borame.co.kr^
 ||bote.me^
 ||bougn.at^
 ||br4.in^
@@ -213,6 +217,7 @@
 ||chilp.it^
 ||chzzk.me^
 ||cia.sh^
+||cinside.co.kr^
 ||cjb.net^
 ||clck.ru^
 ||clean-water.kr^
@@ -284,6 +289,7 @@
 ||epinote.com^
 ||erax.cz^
 ||erw.cz^
+||eurl.co.kr^
 ||ex9.co^
 ||ezstat.ru^
 ||ezurl.cc^
@@ -322,12 +328,15 @@
 ||gg.gg^
 ||glol.in^
 ||go.ly^
+||go.short.busoness^
 ||goes.cx^
 ||goo-gl.me^
 ||goo.by^
 ||goo.gl^
 ||goo.lu^
 ||goo.su^
+||googIe.co.kr^
+||googie.co.kr^
 ||goolnk.com^
 ||gourl.kr^
 ||grabify.link^
@@ -354,6 +363,7 @@
 ||icit.fr^
 ||ick.li^
 ||icks.ro^
+||igor.shortcm.life^
 ||iii.ad^
 ||iii.im^
 ||iiiii.in^
@@ -389,6 +399,7 @@
 ||ix.sk^
 ||j.gs^
 ||j.mp^
+||jd.cn.hn^
 ||jdem.cz^
 ||jieb.be^
 ||jl.mk^
@@ -404,6 +415,7 @@
 ||kfd.pl^
 ||kisu.me^
 ||kitt.today^
+||kkm.cun.kr^
 ||ko.fm^
 ||ko.gl^
 ||koe.kr^
@@ -438,6 +450,7 @@
 ||linkn.co^
 ||linksplit.com^
 ||linktr.ee^
+||linkupcenter.co.kr^
 ||lj.mk^
 ||lkdin.io^
 ||llu.ch^
@@ -460,6 +473,7 @@
 ||lstu.fr^
 ||lyl.su^
 ||lyn.bz^
+||m.site.naver.com^
 ||m11.kr^
 ||m1p.fr^
 ||m3mi.com^
@@ -608,7 +622,10 @@
 ||rybak.tk^
 ||s-url.fr^
 ||s.ee^
+||s.godo.kr^
 ||s.id^
+||s.uconn.edu^
+||s.yam.com^
 ||safe.mn^
 ||safeds.tk^
 ||sagyap.tk^
@@ -645,8 +662,10 @@
 ||shortcm.xyz^
 ||shorte.st^
 ||shorten-url.com^
+||shortener.securenuts.net^
 ||shortenurl.app^
 ||shortlinkapp.com^
+||shortlinks.com.tr^
 ||shorturl.ae^
 ||shorturl.asia^
 ||shorturl.at^
@@ -693,6 +712,7 @@
 ||sy.pe^
 ||t.cn^
 ||t.co^
+||t.hk.uy^
 ||t.ly^
 ||t.me^
 ||t1p.de^
@@ -703,11 +723,12 @@
 ||ta.gd^
 ||tabzi.com^
 ||tau.pe^
+||tb.cn.hn^
 ||tdjt.cz^
 ||teIegram.kr^
 ||teambIind.com^
 ||teambiind.com^
-||teiegram.kr^
+||teiegram.kr
 ||teiegram.kr^
 ||tek.io^
 ||thesa.us^
@@ -735,6 +756,7 @@
 ||tny.im^
 ||tny.kr^
 ||to.ly^
+||todook.tomly.link^
 ||tohle.de^
 ||tokyohot.today^
 ||tpmr.com^
@@ -780,7 +802,11 @@
 ||url.cn^
 ||url.dev^
 ||url.kr^
+||url.obsd.com^
+||url.rewq.co.kr^
+||url.seroweb.net^
 ||url.sg^
+||url.swygbro.com^
 ||url2.fr^
 ||url5.org^
 ||urlc.net^
