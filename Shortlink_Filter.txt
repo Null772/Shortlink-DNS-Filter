@@ -3,7 +3,7 @@
 ! Description: Shortlink Shield Filter
 ! Version: 1.0.7.1
 ! Homepage: https://github.com/Null772/Shortlink-DNS-Filter
-! Last modified: 2025-10-11T13:27:36.356Z
+! Last modified: 2025-10-11T23:28:16.640Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -213,7 +213,6 @@
 ||cf6.co^
 ||cfg.me^
 ||chilp.it^
-||chzzk.me^
 ||cia.sh^
 ||cinside.co.kr^
 ||cjb.net^
