@@ -1,7 +1,7 @@
 # 🛡️ Shortlink DNS Filter
 
 ![License](https://img.shields.io/badge/license-GPLv3-blue.svg)
-![Version](https://img.shields.io/badge/version-1.0.7.2-blue.svg)
+![Version](https://img.shields.io/badge/version-1.0.7.3-blue.svg)
 ![AdGuard](https://img.shields.io/badge/AdGuard-Recommended-red)
 ![uBlock](https://img.shields.io/badge/uBlock-Origin-red)
 ![Unicorn](https://img.shields.io/badge/Unicorn-Pro-red)
