@@ -1,9 +1,9 @@
 !
 ! Title: Shortlink DNS Filter
 ! Description: Shortlink Shield Filter
-! Version: 1.0.7.5
+! Version: 1.0.7.6
 ! Homepage: https://github.com/Null772/Shortlink-DNS-Filter
-! Last modified: 2025-11-06T10:38:49.265Z
+! Last modified: 2025-11-08T16:55:32.097Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -33,6 +33,7 @@
 ||1e.to
 ||1good.pics
 ||1ig.cc
+||1ill.kr
 ||1ink.cc
 ||1tk.us
 ||1un.fr
@@ -144,6 +145,7 @@
 ||alie.kr
 ||aliexpress1111.shop
 ||alil.in
+||alimon.kr
 ||alliexpress.kr
 ||any.gs
 ||apne.ws

@@ -1,9 +1,9 @@
 !
 ! Title: Shortlink User Rules Filter
 ! Description: Shortlink User Rules Shield Filter
-! Version: 1.0.7.5
+! Version: 1.0.7.6
 ! Homepage: https://github.com/Null772/Shortlink-DNS-Filter
-! Last modified: 2025-11-06T10:38:49.265Z
+! Last modified: 2025-11-08T16:55:32.097Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -22,6 +22,7 @@
 ||1e.to^$all
 ||1good.pics^$all
 ||1ig.cc^$all
+||1ill.kr^$all
 ||1ink.cc^$all
 ||1tk.us^$all
 ||1un.fr^$all
@@ -133,6 +134,7 @@
 ||alie.kr^$all
 ||aliexpress1111.shop^$all
 ||alil.in^$all
+||alimon.kr^$all
 ||alliexpress.kr^$all
 ||any.gs^$all
 ||apne.ws^$all
