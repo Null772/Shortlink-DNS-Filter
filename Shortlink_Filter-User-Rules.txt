@@ -1,9 +1,9 @@
 !
 ! Title: Shortlink User Rules Filter
 ! Description: Shortlink User Rules Shield Filter
-! Version: 1.0.7.6
+! Version: 1.0.7.7
 ! Homepage: https://github.com/Null772/Shortlink-DNS-Filter
-! Last modified: 2025-11-08T16:55:32.097Z
+! Last modified: 2025-11-16T10:43:30.359Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -16,6 +16,7 @@
 ||0s.lv^$all
 ||0x3.me^$all
 ||1-url.net^$all
+||11day.shop^$all
 ||11e.kr^$all
 ||126.am^$all
 ||163.fm^$all
@@ -126,6 +127,7 @@
 ||adli.pw^$all
 ||adshrink.it^$all
 ||adv.li^$all
+||aiicoupon.com^$all
 ||aiiiexpress.kr^$all
 ||ajn.me^$all
 ||aka.gr^$all
@@ -432,6 +434,7 @@
 ||lien.pl^$all
 ||lin.io^$all
 ||link-cut.com^$all
+||link-refresh.com^$all
 ||link24.kr^$all
 ||linkcuts.org^$all
 ||linkhuddle.com^$all
@@ -509,6 +512,7 @@
 ||nbcnews.to^$all
 ||net.ms^$all
 ||net46.net^$all
+||newcoupon.kr^$all
 ||nicou.ch^$all
 ||nig.gr^$all
 ||nimble.li^$all
@@ -592,6 +596,7 @@
 ||redu.it^$all
 ||reduced.to^$all
 ||ref.so^$all
+||refresh-coupon.com^$all
 ||reise.lc^$all
 ||relink.fr^$all
 ||replug.link^$all
@@ -665,6 +670,7 @@
 ||shrekis.life^$all
 ||shrt.in^$all
 ||shrtco.de^$all
+||shttlink.com^$all
 ||shy.si^$all
 ||sicax.net^$all
 ||simpleurl.net^$all
@@ -741,6 +747,7 @@
 ||tm1.kr^$all
 ||tnfy.cc^$all
 ||tnij.org^$all
+||tnnyurl.com^$all
 ||tny.cz^$all
 ||tny.im^$all
 ||tny.kr^$all

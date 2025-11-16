@@ -1,9 +1,9 @@
 !
 ! Title: Shortlink DNS Filter
 ! Description: Shortlink Shield Filter
-! Version: 1.0.7.6
+! Version: 1.0.7.7
 ! Homepage: https://github.com/Null772/Shortlink-DNS-Filter
-! Last modified: 2025-11-08T16:55:32.097Z
+! Last modified: 2025-11-16T10:43:30.359Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -27,6 +27,7 @@
 ||0s.lv
 ||0x3.me
 ||1-url.net
+||11day.shop
 ||11e.kr
 ||126.am
 ||163.fm
@@ -137,6 +138,7 @@
 ||adli.pw
 ||adshrink.it
 ||adv.li
+||aiicoupon.com
 ||aiiiexpress.kr
 ||ajn.me
 ||aka.gr
@@ -443,6 +445,7 @@
 ||lien.pl
 ||lin.io
 ||link-cut.com
+||link-refresh.com
 ||link24.kr
 ||linkcuts.org
 ||linkhuddle.com
@@ -520,6 +523,7 @@
 ||nbcnews.to
 ||net.ms
 ||net46.net
+||newcoupon.kr
 ||nicou.ch
 ||nig.gr
 ||nimble.li
@@ -603,6 +607,7 @@
 ||redu.it
 ||reduced.to
 ||ref.so
+||refresh-coupon.com
 ||reise.lc
 ||relink.fr
 ||replug.link
@@ -676,6 +681,7 @@
 ||shrekis.life
 ||shrt.in
 ||shrtco.de
+||shttlink.com
 ||shy.si
 ||sicax.net
 ||simpleurl.net
@@ -752,6 +758,7 @@
 ||tm1.kr
 ||tnfy.cc
 ||tnij.org
+||tnnyurl.com
 ||tny.cz
 ||tny.im
 ||tny.kr
