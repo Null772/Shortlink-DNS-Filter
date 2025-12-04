@@ -1,9 +1,9 @@
 !
 ! Title: Shortlink DNS Filter
 ! Description: Shortlink Shield Filter
-! Version: 1.0.7.7
+! Version: 1.0.7.8
 ! Homepage: https://github.com/Null772/Shortlink-DNS-Filter
-! Last modified: 2025-11-16T10:43:30.359Z
+! Last modified: 2025-12-04T14:45:23.240Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -265,6 +265,7 @@
 ||dev.me
 ||devlab.link
 ||dft.ba
+||din.pics
 ||dlink.kr
 ||dlvr.it
 ||doiop.com
@@ -413,6 +414,7 @@
 ||kask.us
 ||katana.run
 ||kay.so
+||kbr.kr
 ||kcults.shop
 ||kfd.pl
 ||kisu.me
@@ -931,6 +933,7 @@
 ||zti.me
 ||zxcv.be
 ||zxq.net
+||zxzy.xyz
 ||zyva.org
 ||zzb.bz
 ||zzzz.zip

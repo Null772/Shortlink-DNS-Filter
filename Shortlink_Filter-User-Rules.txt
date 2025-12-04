@@ -1,9 +1,9 @@
 !
 ! Title: Shortlink User Rules Filter
 ! Description: Shortlink User Rules Shield Filter
-! Version: 1.0.7.7
+! Version: 1.0.7.8
 ! Homepage: https://github.com/Null772/Shortlink-DNS-Filter
-! Last modified: 2025-11-16T10:43:30.359Z
+! Last modified: 2025-12-04T14:45:23.240Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -254,6 +254,7 @@
 ||dev.me^$all
 ||devlab.link^$all
 ||dft.ba^$all
+||din.pics^$all
 ||dlink.kr^$all
 ||dlvr.it^$all
 ||doiop.com^$all
@@ -402,6 +403,7 @@
 ||kask.us^$all
 ||katana.run^$all
 ||kay.so^$all
+||kbr.kr^$all
 ||kcults.shop^$all
 ||kfd.pl^$all
 ||kisu.me^$all
@@ -920,6 +922,7 @@
 ||zti.me^$all
 ||zxcv.be^$all
 ||zxq.net^$all
+||zxzy.xyz^$all
 ||zyva.org^$all
 ||zzb.bz^$all
 ||zzzz.zip^$all
