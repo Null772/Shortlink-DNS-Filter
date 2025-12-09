@@ -1,9 +1,9 @@
 !
 ! Title: Shortlink User Rules Filter
 ! Description: Shortlink User Rules Shield Filter
-! Version: 1.0.7.8
+! Version: 1.0.7.9
 ! Homepage: https://github.com/Null772/Shortlink-DNS-Filter
-! Last modified: 2025-12-04T14:45:23.240Z
+! Last modified: 2025-12-09T09:08:42.833Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -400,6 +400,7 @@
 ||jp22.net^$all
 ||jqw.de^$all
 ||juso.ga^$all
+||karr.kr^$all
 ||kask.us^$all
 ||katana.run^$all
 ||kay.so^$all
@@ -408,6 +409,7 @@
 ||kfd.pl^$all
 ||kisu.me^$all
 ||kitt.today^$all
+||kkkrr.kr^$all
 ||kkm.cun.kr^$all
 ||ko.fm^$all
 ||ko.gl^$all
