@@ -1,9 +1,9 @@
 !
 ! Title: Shortlink DNS Filter
 ! Description: Shortlink Shield Filter
-! Version: 1.0.7.9
+! Version: 1.0.8.0
 ! Homepage: https://github.com/Null772/Shortlink-DNS-Filter
-! Last modified: 2025-12-09T09:08:42.833Z
+! Last modified: 2025-12-23T14:37:27.710Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -337,6 +337,7 @@
 ||goo.gl
 ||goo.lu
 ||goo.su
+||goodeal.kr
 ||googIe.co.kr
 ||googie.co.kr
 ||goolnk.com
@@ -901,6 +902,7 @@
 ||y.gy
 ||yagoa.fr
 ||yagoa.me
+||yaho.pics
 ||yao.ng
 ||yaso.su
 ||yau.sh
@@ -925,6 +927,7 @@
 ||zip.net
 ||zipdocs.blog
 ||zipurl.site
+||ziz.pics
 ||zkr.cz
 ||zkrat.me
 ||zkrt.cz

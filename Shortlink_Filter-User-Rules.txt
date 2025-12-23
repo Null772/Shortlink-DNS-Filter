@@ -1,9 +1,9 @@
 !
 ! Title: Shortlink User Rules Filter
 ! Description: Shortlink User Rules Shield Filter
-! Version: 1.0.7.9
+! Version: 1.0.8.0
 ! Homepage: https://github.com/Null772/Shortlink-DNS-Filter
-! Last modified: 2025-12-09T09:08:42.833Z
+! Last modified: 2025-12-23T14:37:27.710Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -326,6 +326,7 @@
 ||goo.gl^$all
 ||goo.lu^$all
 ||goo.su^$all
+||goodeal.kr^$all
 ||googIe.co.kr^$all
 ||googie.co.kr^$all
 ||goolnk.com^$all
@@ -890,6 +891,7 @@
 ||y.gy^$all
 ||yagoa.fr^$all
 ||yagoa.me^$all
+||yaho.pics^$all
 ||yao.ng^$all
 ||yaso.su^$all
 ||yau.sh^$all
@@ -914,6 +916,7 @@
 ||zip.net^$all
 ||zipdocs.blog^$all
 ||zipurl.site^$all
+||ziz.pics^$all
 ||zkr.cz^$all
 ||zkrat.me^$all
 ||zkrt.cz^$all
