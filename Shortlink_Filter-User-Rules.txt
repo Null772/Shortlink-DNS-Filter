@@ -1,9 +1,9 @@
 !
 ! Title: Shortlink User Rules Filter
 ! Description: Shortlink User Rules Shield Filter
-! Version: 1.0.8.0
+! Version: 1.0.8.1
 ! Homepage: https://github.com/Null772/Shortlink-DNS-Filter
-! Last modified: 2025-12-23T14:37:27.710Z
+! Last modified: 2026-01-09T12:45:28.072Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -25,6 +25,7 @@
 ||1ig.cc^$all
 ||1ill.kr^$all
 ||1ink.cc^$all
+||1rr.kr^$all
 ||1tk.us^$all
 ||1un.fr^$all
 ||1url.com^$all
@@ -395,6 +396,7 @@
 ||jd.cn.hn^$all
 ||jdem.cz^$all
 ||jieb.be^$all
+||jjl.kr^$all
 ||jl.mk^$all
 ||joinmy.site^$all
 ||joturl.com^$all
@@ -528,9 +530,11 @@
 ||nxy.in^$all
 ||nyti.ms^$all
 ||o-x.fr^$all
+||o94.kr^$all
 ||oe.cd^$all
 ||oiiiiii.io^$all
 ||okok.fr^$all
+||oo0.kr^$all
 ||oqp.ru^$all
 ||otherhalf.life^$all
 ||ou.af^$all
@@ -585,6 +589,7 @@
 ||qrtag.fr^$all
 ||qxp.cz^$all
 ||qxp.sk^$all
+||r33.kr^$all
 ||rb.gy^$all
 ||rb6.co^$all
 ||rbnd.bio^$all

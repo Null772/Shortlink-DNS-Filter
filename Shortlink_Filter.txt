@@ -1,9 +1,9 @@
 !
 ! Title: Shortlink DNS Filter
 ! Description: Shortlink Shield Filter
-! Version: 1.0.8.0
+! Version: 1.0.8.1
 ! Homepage: https://github.com/Null772/Shortlink-DNS-Filter
-! Last modified: 2025-12-23T14:37:27.710Z
+! Last modified: 2026-01-09T12:45:28.072Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -36,6 +36,7 @@
 ||1ig.cc
 ||1ill.kr
 ||1ink.cc
+||1rr.kr
 ||1tk.us
 ||1un.fr
 ||1url.com
@@ -406,6 +407,7 @@
 ||jd.cn.hn
 ||jdem.cz
 ||jieb.be
+||jjl.kr
 ||jl.mk
 ||joinmy.site
 ||joturl.com
@@ -539,9 +541,11 @@
 ||nxy.in
 ||nyti.ms
 ||o-x.fr
+||o94.kr
 ||oe.cd
 ||oiiiiii.io
 ||okok.fr
+||oo0.kr
 ||oqp.ru
 ||otherhalf.life
 ||ou.af
@@ -596,6 +600,7 @@
 ||qrtag.fr
 ||qxp.cz
 ||qxp.sk
+||r33.kr
 ||rb.gy
 ||rb6.co
 ||rbnd.bio
