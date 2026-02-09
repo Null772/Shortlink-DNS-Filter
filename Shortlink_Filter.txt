@@ -1,9 +1,9 @@
 !
 ! Title: Shortlink DNS Filter
 ! Description: Shortlink Shield Filter
-! Version: 1.0.8.1
+! Version: 1.0.8.2
 ! Homepage: https://github.com/Null772/Shortlink-DNS-Filter
-! Last modified: 2026-01-09T12:45:28.072Z
+! Last modified: 2026-02-09T21:22:31.223Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -658,6 +658,7 @@
 ||seonyul.kr
 ||seouI.city
 ||seoui.city
+||seoul.bond
 ||sfi.st
 ||sh.st
 ||shar.as
@@ -870,6 +871,7 @@
 ||wait.list
 ||wall.sh
 ||wapo.st
+||wat.watch
 ||wb1.eu
 ||wbze.de
 ||web99.eu

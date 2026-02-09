@@ -1,9 +1,9 @@
 !
 ! Title: Shortlink User Rules Filter
 ! Description: Shortlink User Rules Shield Filter
-! Version: 1.0.8.1
+! Version: 1.0.8.2
 ! Homepage: https://github.com/Null772/Shortlink-DNS-Filter
-! Last modified: 2026-01-09T12:45:28.072Z
+! Last modified: 2026-02-09T21:22:31.223Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -647,6 +647,7 @@
 ||seonyul.kr^$all
 ||seouI.city^$all
 ||seoui.city^$all
+||seoul.bond^$all
 ||sfi.st^$all
 ||sh.st^$all
 ||shar.as^$all
@@ -859,6 +860,7 @@
 ||wait.list^$all
 ||wall.sh^$all
 ||wapo.st^$all
+||wat.watch^$all
 ||wb1.eu^$all
 ||wbze.de^$all
 ||web99.eu^$all
