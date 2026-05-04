@@ -3,7 +3,7 @@
 ! Description: Shortlink Shield Filter
 ! Version: 1.0.8.2
 ! Homepage: https://github.com/Null772/Shortlink-DNS-Filter
-! Last modified: 2026-02-09T21:22:31.223Z
+! Last modified: 2026-05-04T05:25:59.284Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -357,6 +357,7 @@
 ||hill.cm
 ||hjkl.fr
 ||hops.me
+||hotdeal.cam
 ||hottt.kr
 ||hoy.kr
 ||href.li
@@ -414,6 +415,9 @@
 ||jp22.net
 ||jqw.de
 ||juso.ga
+||k-sale.cyou
+||k1n.pro
+||k98.quest
 ||karr.kr
 ||kask.us
 ||katana.run
@@ -522,7 +526,9 @@
 ||myrisk.kr
 ||mysl.nl
 ||myurl.in
+||n88n.coupons
 ||n9.cl
+||n9k.run
 ||na.to
 ||nal.la
 ||name.com

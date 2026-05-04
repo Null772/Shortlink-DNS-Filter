@@ -3,7 +3,7 @@
 ! Description: Shortlink User Rules Shield Filter
 ! Version: 1.0.8.2
 ! Homepage: https://github.com/Null772/Shortlink-DNS-Filter
-! Last modified: 2026-02-09T21:22:31.223Z
+! Last modified: 2026-05-04T05:25:59.284Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -346,6 +346,7 @@
 ||hill.cm^$all
 ||hjkl.fr^$all
 ||hops.me^$all
+||hotdeal.cam^$all
 ||hottt.kr^$all
 ||hoy.kr^$all
 ||href.li^$all
@@ -403,6 +404,9 @@
 ||jp22.net^$all
 ||jqw.de^$all
 ||juso.ga^$all
+||k-sale.cyou^$all
+||k1n.pro^$all
+||k98.quest^$all
 ||karr.kr^$all
 ||kask.us^$all
 ||katana.run^$all
@@ -511,7 +515,9 @@
 ||myrisk.kr^$all
 ||mysl.nl^$all
 ||myurl.in^$all
+||n88n.coupons^$all
 ||n9.cl^$all
+||n9k.run^$all
 ||na.to^$all
 ||nal.la^$all
 ||name.com^$all
